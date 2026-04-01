@@ -58,14 +58,17 @@ Esse projeto foi muito importante para mim porque foi a primeira vez que trabalh
 
 Esse projeto ainda vai evoluir. Algumas melhorias que quero adicionar:
 
-- Interface mais simples e direta
-- Melhor organização do código
-- Melhor responsividade
-- Melhor estrutura de JavaScript
-- Nova versão sem depender tanto de código gerado por IA
+- Refatorar o código para deixá-lo mais limpo e organizado
+- Melhorar a estrutura do JavaScript
+- Simplificar a interface
+- Evoluir o projeto com novas funcionalidades
 
 ---
 
 ## 📌 Observação
 
 Esse foi um projeto guiado, mas durante o desenvolvimento precisei testar, corrigir erros e entender várias partes do código para conseguir fazer tudo funcionar corretamente.
+
+## 💻 Demonstração
+
+👉 [Clique aqui para ver o projeto publicado](https://andrey00005.github.io/videoMaker/)
