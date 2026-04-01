@@ -67,7 +67,9 @@ Esse projeto ainda vai evoluir. Algumas melhorias que quero adicionar:
 
 ## 📌 Observação
 
-Esse foi um projeto guiado, mas durante o desenvolvimento precisei testar, corrigir erros e entender várias partes do código para conseguir fazer tudo funcionar corretamente.
+Projeto desenvolvido durante o NLW Operator da Rocketseat, com foco em integração com API, upload de arquivos e lógica assíncrona em JavaScript.
+
+Durante o desenvolvimento, realizei ajustes no código, testes e correções para garantir que todas as funcionalidades funcionassem corretamente.
 
 ## 💻 Demonstração
 
